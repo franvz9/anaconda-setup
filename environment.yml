@@ -9,7 +9,4 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - plotnine
-    - pyecherts
-    - pandas
-    - numpy
+
