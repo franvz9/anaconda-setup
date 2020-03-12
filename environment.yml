@@ -109,11 +109,6 @@ dependencies:
   - locket=0.2.0
   - lxml=4.4.1
   - lz4-c=1.8.1.2
-  - m2w64-gcc-libgfortran=5.3.0
-  - m2w64-gcc-libs=5.3.0
-  - m2w64-gcc-libs-core=5.3.0
-  - m2w64-gmp=6.1.0
-  - m2w64-libwinpthread-git=5.0.0.4634.697f757
   - markupsafe=1.1.1
   - matplotlib=3.1.1
   - mccabe=0.6.1
@@ -126,7 +121,6 @@ dependencies:
   - more-itertools=7.2.0
   - mpmath=1.1.0
   - msgpack-python=0.6.1
-  - msys2-conda-epoch=20160418
   - multipledispatch=0.6.0
   - navigator-updater=0.2.1
   - nbconvert=5.6.0
@@ -238,8 +232,6 @@ dependencies:
   - traitlets=4.3.3
   - unicodecsv=0.14.1
   - urllib3=1.24.2
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
   - wcwidth=0.1.7
   - webencodings=0.5.1
   - werkzeug=0.16.0
