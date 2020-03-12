@@ -17,7 +17,6 @@ dependencies:
   - backports.weakref=1.0.post1
   - beautifulsoup4=4.8.0
   - bitarray=1.0.1
-  - bkcharts=0.20
   - blas=1.0=mkl
   - bleach=3.1.0
   - blosc=1.16.3
@@ -85,7 +84,7 @@ dependencies:
   - jedi=0.15.1
   - jinja2=2.10.3
   - joblib=0.13.2
-  - jpeg=9b=hb83a4c4_2
+  - jpeg=9b
   - json5=0.8.5
   - jsonschema=3.0.2
   - jupyter=1.0.0
@@ -103,8 +102,8 @@ dependencies:
   - libiconv=1.15=h1df5818_7
   - liblief=0.9.0=ha925a31_2
   - libpng=1.6.37=h2a8f88b_0
-  - libsodium=1.0.16=h9d3ae62_0
-  - libssh2=1.8.2=h7a1dbc1_0
+  - libsodium=1.0.16
+  - libssh2=1.8.2
   - libtiff=4.0.10=hb898794_2
   - libxml2=2.9.9=h464c3ec_0
   - libxslt=1.1.33=h579f668_0
@@ -116,7 +115,7 @@ dependencies:
   - m2w64-gcc-libgfortran=5.3.0=6
   - m2w64-gcc-libs=5.3.0=7
   - m2w64-gcc-libs-core=5.3.0=7
-  - m2w64-gmp=6.1.0=2
+  - m2w64-gmp=6.1.0
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1
   - matplotlib=3.1.1
@@ -218,7 +217,7 @@ dependencies:
   - singledispatch=3.4.0.3
   - sip=4.19.8
   - six=1.12.0
-  - snappy=1.1.7=h777316e_3
+  - snappy=1.1.7
   - snowballstemmer=2.0.0
   - sortedcollections=1.1.2
   - sortedcontainers=2.1.0
@@ -237,7 +236,6 @@ dependencies:
   - sqlalchemy=1.3.9
   - sqlite=3.30.0=he774522_0
   - statsmodels=0.10.1
-  - sympy=1.40
   - tbb=2019.4=h74a9793_0
   - tblib=1.4.0
   - terminado=0.8.2
@@ -257,13 +255,11 @@ dependencies:
   - wheel=0.33.6
   - widgetsnbextension=3.5.1
   - win_inet_pton=1.1.0
-  - win_unicode_console=0.5
   - wincertstore=0.2
-  - winpty=0.4.3=4
+  - winpty=0.4.3
   - wrapt=1.11.2
   - xlrd=1.2.0
   - xlsxwriter=1.2.1
-  - xlwings=0.15.10
   - xlwt=1.3.0
   - xz=5.2.4=h2fa13f4_4
   - yaml=0.1.7=hc54c509_2
@@ -271,7 +267,7 @@ dependencies:
   - zict=1.0.0
   - zipp=0.6.0
   - zlib=1.2.11=h62dcd97_3
-  - zstd=1.3.7=h508b16e_0
+  - zstd=1.3.7
   - pip:
     - spacy
     - ipykernel
